@@ -43,9 +43,6 @@
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-</a>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </a>
