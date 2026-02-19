@@ -5,6 +5,8 @@
 # Hi 👋, I'm Restu Anggia Putra  
 ### 💻 Computer Science & Technology
 
+<img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVmaWszbjA5dmo4OHVpbnNiMmZlMzBxMDBlMTY2NDRrZ2VrZ2lsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJCo9daAP0xugHhhfb/giphy.gif"  /> &nbsp;
+<img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I2aXVpOGd3eHoxY3oxZTczOWF6anhqNDh1eHB5NDd4eXk3OHR5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif"  /> &nbsp;  <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV3dzdyMWo1endkcHZpcDY3NTYxZmFtY3h5NGVzYjcwd205YmQxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oaDcc0LTCuIAiGYrzn/giphy.gif"  /> &nbsp;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🌐 Socials
@@ -94,7 +96,6 @@
 <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </a>
-
 
 </p>
 
