@@ -33,9 +33,6 @@
 <a href="https://daisyui.com/" target="_blank">
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </a>
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</a>
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 </a>
