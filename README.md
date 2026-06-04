@@ -78,6 +78,9 @@
 <a href="https://react.dev/" target="_blank">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+<a href="https://supabase.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Supabase-%2320232a.svg?style=for-the-badge&logo=supabase&logoColor=%234FC08D" />
+</a>
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
